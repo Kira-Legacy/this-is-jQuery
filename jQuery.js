@@ -1,4 +1,7 @@
 /*! jQuery v3.7.1 | (c) OpenJS Foundation and other contributors | jquery.org/license */
+ * This is the work of jQuery team, I am just trying to learn how JQuery is written by converting the source code into a regular css code. (Since jQuery is made up with
+  a bunch of JS code).
+    
 !function(e,t)
 {
 "use strict";
