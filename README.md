@@ -1,2 +1,2 @@
 # this-is-jQuery
-This is jQuery in it's original apperance.
+- Trying to mine jQuery before being minified for learning purposes.
